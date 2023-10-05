@@ -1,8 +1,8 @@
-import { Row, Col } from "antd";
+import { Row } from "antd";
 import { withTranslation } from "react-i18next";
 import { Slide } from "react-awesome-reveal";
-import { Button } from "../../common/Button";
-import { MiddleBlockSection, Content, ContentWrapper } from "./styles";
+import { MiddleBlockSection, ContentWrapper ,LatestMsgContent} from "./styles";
+import EnvTab from "../EnvTab";
 
 interface MiddleBlockProps {
   title: string;
@@ -11,27 +11,16 @@ interface MiddleBlockProps {
   t: any;
 }
 
+
+
 const MiddleBlock = ({ title, content, button, t }: MiddleBlockProps) => {
-  const scrollTo = (id: string) => {
-    const element = document.getElementById(id) as HTMLDivElement;
-    element.scrollIntoView({
-      behavior: "smooth",
-    });
-  };
   return (
-    <MiddleBlockSection>
+    <MiddleBlockSection id="middleblock">
       <Slide direction="up">
         <Row justify="center" align="middle">
           <ContentWrapper>
-            <Col lg={24} md={24} sm={24} xs={24}>
-              <h6>{t(title)}</h6>
-              <Content>{t(content)}</Content>
-              {button && (
-                <Button name="submit" onClick={() => scrollTo("mission")}>
-                  {t(button)}
-                </Button>
-              )}
-            </Col>
+          <LatestMsgContent>Why hurry, 24R1 coming soon.</LatestMsgContent>
+          <EnvTab release = '24R1' tabtype ="RELEASE"/>
           </ContentWrapper>
         </Row>
       </Slide>
