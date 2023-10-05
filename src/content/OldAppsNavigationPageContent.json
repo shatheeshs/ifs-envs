@@ -1,0 +1,216 @@
+{
+    "parent": [
+        {
+            "release": "APPS10RND",
+            "section": [
+                {
+                    "envtitle": "DEV CMB",
+                    "url": "https://cmbgse1913.corpnet.ifsworld.com:48080/",
+                    "ew" : "http://ew/Environment/Detail?envid=11595",
+                    "tasurl" : "https://tas-app10.ifsworld.com",
+                    "systemid" : "10rndmobdevcmb.ifsworld.com",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "DEV LKP",
+                    "url": "https://lkpgse1525.corpnet.ifsworld.com:48080/",
+                    "ew" : "http://ew/Environment/Detail?envid=11596",
+                    "tasurl" : "https://tas-app10.ifsworld.com",
+                    "systemid" : "10rndmobdevlkp.ifsworld.com",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "BNT CMB",
+                    "url": "https://cmbgse1912.corpnet.ifsworld.com:48080/",
+                    "ew" : "http://ew/Environment/Detail?envid=11594",
+                    "tasurl" : "https://tas-app10.ifsworld.com",
+                    "systemid" : "10rndmobtstcmb.ifsworld.com",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "BNT LKP",
+                    "url": "https://lkpgse1603.corpnet.ifsworld.com:48080/",
+                    "ew" : "http://ew/Environment/Detail?envid=12929",
+                    "tasurl" : "https://tas-app10.ifsworld.com",
+                    "systemid" : "10rndmobtstlkp.ifsworld.com",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "RND TEST CMB",
+                    "url": "",
+                    "ew" : "http://ew/Environment/Detail?envid=11583",
+                    "tasurl" : "https://tas-app10.ifsworld.com",
+                    "systemid" : "10rndtstcmb.ifsworld.com",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "RND TEST LKP",
+                    "url": "",
+                    "ew" : "http://ew/Environment/Detail?envid=11581",
+                    "tasurl" : "https://tas-app10.ifsworld.com",
+                    "systemid" : "10rndtstlkp.ifsworld.com",
+                    "enable" : true
+                }
+            ]
+        },
+        {
+            "release": "APPS10OTHER",
+            "section": [
+                {
+                    "envtitle": "VALIDATION TEST CMB",
+                    "url": "",
+                    "ew" : "http://ew/Environment/Detail?envid=12018",
+                    "tasurl" : "https://tas-app10.ifsworld.com",
+                    "systemid" : "10updvaltstcmb.ifsworld.com",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "VALIDATION TEST LKP",
+                    "url": "",
+                    "ew" : "http://ew/Environment/Detail?envid=11976",
+                    "tasurl" : "https://tas-app10.ifsworld.com",
+                    "systemid" : "10updvaltstlkp.ifsworld.com",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "REGIONAL TEST CMB",
+                    "url": "",
+                    "ew" : "http://ew/Environment/Detail?envid=11601",
+                    "tasurl" : "https://tas-app10.ifsworld.com",
+                    "systemid" : "10regtstcmb.ifsworld.com",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "REGIONAL TEST LKP",
+                    "url": "",
+                    "ew" : "http://ew/Environment/Detail?envid=11598",
+                    "tasurl" : "https://tas-app10.ifsworld.com",
+                    "systemid" : "10regtstlkp.ifsworld.com",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "TECH CMB",
+                    "url": "",
+                    "ew" : "http://ew/Environment/Detail?envid=11597",
+                    "tasurl" : "https://tas-app10.ifsworld.com",
+                    "systemid" : "10techcmb.ifsworld.com",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "TECH LKP",
+                    "url": "",
+                    "ew" : "http://ew/Environment/Detail?envid=11599",
+                    "tasurl" : "https://tas-app10.ifsworld.com",
+                    "systemid" : "10techlkp.ifsworld.com",
+                    "enable" : true
+                } 
+            ]
+        },
+        {
+            "release": "APPS9RND",
+            "section": [
+                {
+                    "envtitle": "DEV CMB",
+                    "url": "http://cmbgse62.corpnet.ifsworld.com:58080/",
+                    "ew" : "http://ew/Environment/Detail?envid=8791",
+                    "tasurl" : "https://tas.ifsworld.com",
+                    "systemid" : "9rndmobdevcmb.ifsworld.com",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "DEV LKP",
+                    "url": "http://lkpgse73.corpnet.ifsworld.com:58080/",
+                    "ew" : "http://ew/Environment/Detail?envid=9475",
+                    "tasurl" : "https://tas.ifsworld.com",
+                    "systemid" : "9rndmobdevlkp.ifsworld.com",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "BNT CMB",
+                    "url": "http://cmbgse61.corpnet.ifsworld.com:58080/",
+                    "ew" : "http://ew/Environment/Detail?envid=8790",
+                    "tasurl" : "https://tas.ifsworld.com",
+                    "systemid" : "9rndmobtstcmb.ifsworld.com",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "BNT LKP",
+                    "url": "http://lkpgse75.corpnet.ifsworld.com:58080/",
+                    "ew" : "http://ew/Environment/Detail?envid=12255",
+                    "tasurl" : "https://tas.ifsworld.com",
+                    "systemid" : "9rndmobtstlkp.ifsworld.com",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "RND TEST CMB",
+                    "url": "",
+                    "ew" : "http://ew/Environment/Detail?envid=2714",
+                    "tasurl" : "https://tas.ifsworld.com",
+                    "systemid" : "9rndtstcmb.ifsworld.com",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "RND TEST LKP",
+                    "url": "",
+                    "ew" : "http://ew/Environment/Detail?envid=2715",
+                    "tasurl" : "https://tas.ifsworld.com",
+                    "systemid" : "9rndtstlkp.ifsworld.com",
+                    "enable" : true
+                }
+            ]
+        },
+        {
+            "release": "APPS9OTHER",
+            "section": [
+                {
+                    "envtitle": "VALIDATION TEST CMB",
+                    "url": "",
+                    "ew" : "http://ew/Environment/Detail?envid=3714",
+                    "tasurl" : "https://tas.ifsworld.com",
+                    "systemid" : "9updvaltstcmb.ifsworld.com",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "VALIDATION TEST LKP",
+                    "url": "",
+                    "ew" : "http://ew/Environment/Detail?envid=3711",
+                    "tasurl" : "https://tas.ifsworld.com",
+                    "systemid" : "9updvaltstlkp.ifsworld.com",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "REGIONAL TEST CMB",
+                    "url": "",
+                    "ew" : "http://ew/Environment/Detail?envid=2780",
+                    "tasurl" : "https://tas.ifsworld.com",
+                    "systemid" : "9regtstcmb.ifsworld.com",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "REGIONAL TEST LKP",
+                    "url": "",
+                    "ew" : "http://ew/Environment/Detail?envid=2782",
+                    "tasurl" : "https://tas.ifsworld.com",
+                    "systemid" : "9regtstlkp.ifsworld.com",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "TECH CMB",
+                    "url": "",
+                    "ew" : "http://ew/Environment/Detail?envid=3093",
+                    "tasurl" : "https://tas.ifsworld.com",
+                    "systemid" : "9techcmb.ifsworld.com",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "TECH LKP",
+                    "url": "",
+                    "ew" : "http://ew/Environment/Detail?envid=3092",
+                    "tasurl" : "https://tas.ifsworld.com",
+                    "systemid" : "9techlkp.ifsworld.com",
+                    "enable" : true
+                } 
+            ]
+        }
+    ]
+}

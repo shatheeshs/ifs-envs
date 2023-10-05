@@ -1,0 +1,82 @@
+{
+    "parent": [
+        {
+            "release": "REPOSGIT",
+            "section": [
+                {
+                    "key" : "GIT1",
+                    "infotitle": "App9",
+                    "subtitle": "",
+                    "url": "https://bitbucket.org/ifs-pd/ifs-sm-mwo9",
+                    "enable" : true
+                },
+                {
+                    "key" : "GIT2",
+                    "infotitle": "App10",
+                    "subtitle": "",
+                    "url": "https://bitbucket.org/ifs-pd/ifs-sm-mwo10",
+                    "enable" : true
+                },
+                {
+                    "key" : "GIT3",
+                    "infotitle": "IFS Cloud",
+                    "subtitle": "",
+                    "url": "https://bitbucket.org/ifs-pd/ifs-applications/branches/",
+                    "enable" : true
+                }
+            ]
+        },
+        {
+            "release": "REPOSSVN",
+            "section": [
+                {
+                    "key" : "SVN1",
+                    "infotitle": "App9",
+                    "subtitle": "",
+                    "url": "https://cmbsvn01/svn/ifsapp/projects/core-9.0",
+                    "enable" : true
+                },
+                {
+                    "key" : "SVN2",
+                    "infotitle": "App10",
+                    "subtitle": "",
+                    "url": "https://cmbsvn01/svn/ifsapp/projects/core-10.0",
+                    "enable" : true
+                },
+                {
+                    "key" : "SVN3",
+                    "infotitle": "uxx-waves",
+                    "subtitle": "",
+                    "url": "https://cmbsvn01/svn/ifsapp/projects/uxx-waves",
+                    "enable" : true
+                }
+            ]
+        },
+        {
+            "release": "REALJUNK",
+            "section": [
+                {
+                    "key" : "JUNK1",
+                    "infotitle": "Touch Apps Archive",
+                    "subtitle": "App9/App9/App10",
+                    "url": "\\corpnet\\files\\Archive\\ArchiveTA\\mWO",
+                    "enable" : true
+                },
+                {
+                    "key" : "JUNK2",
+                    "infotitle": "LCS-App9",
+                    "subtitle": "Contains all LCS bug IDs associated with the releases",
+                    "url": "http://lcs.corpnet.ifsworld.com/login/secured/castrw/Solution.page?__ID=198093&ORIGINATING_SOLUTION_ID=234951",
+                    "enable" : true
+                },
+                {
+                    "key" : "JUNK3",
+                    "infotitle": "LCS-App10",
+                    "subtitle": "Contains all LCS bug IDs associated with the releases",
+                    "url": "http://lcs.corpnet.ifsworld.com/login/secured/castrw/Solution.page?ORIGINATING_SOLUTION_ID=260523",
+                    "enable" : true
+                }
+            ]
+        }
+    ]
+}

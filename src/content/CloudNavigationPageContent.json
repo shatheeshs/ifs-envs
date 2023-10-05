@@ -1,0 +1,474 @@
+{
+    "parent": [
+        {
+            "release": "24R1",
+            "msg" : "Why hurry, 24R1 coming soon.",
+            "section": [
+                {
+                    "envtitle": "DEV CMB",
+                    "url": "https://ifs23r2bnddevcmb.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bnddevcmb",
+                    "enable" : false
+                },
+                {
+                    "envtitle": "DEP CMB",
+                    "url": "https://ifs23r2bnddepcmb.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bnddepcmb",
+                    "enable" : false
+                },
+                {
+                    "envtitle": "DEV LKP",
+                    "url": "https://ifs23r2bnddevlkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bnddevlkp",
+                    "enable" : false
+                },
+                {
+                    "envtitle": "DEP LKP",
+                    "url": "https://ifs23r2bnddeplkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bnddeplkp",
+                    "enable" : false
+                },
+                {
+                    "envtitle": "BNT CMB",
+                    "url": "https://ifs23r2bndbntcmb.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bndbntcmb",
+                    "enable" : false
+                },
+                {
+                    "envtitle": "BNT LKP",
+                    "url": "https://ifs23r2bndbntlkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bndbntlkp",
+                    "enable" : false
+                },
+                {
+                    "envtitle": "MOB TEST CMB",
+                    "url": "https://ifs23r2bndbntlkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bndbntlkp",
+                    "enable" : false
+                },
+                {
+                    "envtitle": "MOB DEV CMB",
+                    "url": "https://ifs23r2bndbntlkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bndbntlkp",
+                    "enable" : false
+                },
+                {
+                    "envtitle": "MOB DEV LKP",
+                    "url": "https://ifs23r2bndbntlkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bndbntlkp",
+                    "enable" : false
+                },
+                {
+                    "envtitle": "SANITY",
+                    "url": "",
+                    "ew" : "http://ea/d/sanity-23r2",
+                    "enable" : false
+                }
+                
+            ]
+        },
+        {
+            "release": "23R2",
+            "msg" : "",
+            "section": [
+                {
+                    "envtitle": "DEV CMB",
+                    "url": "https://ifs23r2bnddevcmb.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bnddevcmb",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "DEP CMB",
+                    "url": "https://ifs23r2bnddepcmb.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bnddepcmb",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "DEV LKP",
+                    "url": "https://ifs23r2bnddevlkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bnddevlkp",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "DEP LKP",
+                    "url": "https://ifs23r2bnddeplkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bnddeplkp",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "BNT CMB",
+                    "url": "https://ifs23r2bndbntcmb.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bndbntcmb",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "BNT LKP",
+                    "url": "https://ifs23r2bndbntlkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bndbntlkp",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "MOB TEST CMB",
+                    "url": "https://ifssmmobtestcmb.rnd.ifsdevworld.com",
+                    "ew" : "dlk1pde865/IFSPDB(IFSAPP):1521",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "MOB DEV CMB",
+                    "url": "https://ifs23r2mobiledevcmb.rnd.ifsdevworld.com",
+                    "ew" : "dlk1pde641/IFSPDB(IFSAPP):1521",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "MOB DEP CMB",
+                    "url": "https://ifs23r2mobiledepcmb.rnd.ifsdevworld.com",
+                    "ew" : "dlk1pde640/IFSPDB(IFSAPP):1521",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "SANITY",
+                    "url": "",
+                    "ew" : "http://ea/d/sanity-23r2",
+                    "enable" : true
+                }
+                
+            ]
+        },
+        {
+            "release": "23R1",
+            "msg" : "",
+            "section": [
+                {
+                    "envtitle": "DEV CMB",
+                    "url": "https://ifs23r1bnddevcmb.rnd.ifsdevworld.com",
+                    "ew" : "http://ew/Environment/Detail?envid=21398",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "DEP CMB",
+                    "url": "https://ifs23r1bnddepcmb.rnd.ifsdevworld.com",
+                    "ew" : "http://ew/Environment/Detail?envid=21397",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "DEV LKP",
+                    "url": "https://ifs23r1bnddevlkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ew/Environment/Detail?envid=21402",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "DEP LKP",
+                    "url": "https://ifs23r1bnddeplkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ew/Environment/Detail?envid=21401",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "BNT CMB",
+                    "url": "https://ifs23r1bndbntcmb.rnd.ifsdevworld.com",
+                    "ew" : "http://ew/Environment/Detail?envid=21396",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "BNT LKP",
+                    "url": "https://ifs23r1bndbntlkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ew/Environment/Detail?envid=21400",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "MOB TEST CMB",
+                    "url": "https://ifs23r2bndbntlkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bndbntlkp",
+                    "enable" : false
+                },
+                {
+                    "envtitle": "MOB DEV CMB",
+                    "url": "https://ifs23r2bndbntlkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bndbntlkp",
+                    "enable" : false
+                },
+                {
+                    "envtitle": "MOB DEV LKP",
+                    "url": "https://ifs23r2bndbntlkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bndbntlkp",
+                    "enable" : false
+                },
+                {
+                    "envtitle": "SANITY",
+                    "url": "",
+                    "ew" : "http://ea/d/sanity-23r1/23r1?orgId=1&from=now-12h&to=now&refresh=1m",
+                    "enable" : true
+                }
+                
+            ]
+        },
+        {
+            "release": "22R2",
+            "msg" : "",
+            "section": [
+                {
+                    "envtitle": "DEV CMB",
+                    "url": "https://ifs22r2bnddevcmb.rnd.ifsdevworld.com",
+                    "ew" : "http://ew/Environment/Detail?envid=20341",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "DEP CMB",
+                    "url": "https://ifs22r2bnddepcmb.rnd.ifsdevworld.com",
+                    "ew" : "http://ew/Environment/Detail?envid=20340",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "DEV LKP",
+                    "url": "https://ifs22r2bnddevlkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ew/Environment/Detail?envid=20333",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "DEP LKP",
+                    "url": "https://ifs22r2bnddeplkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ew/Environment/Detail?envid=20334",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "BNT CMB",
+                    "url": "https://ifs22r2bndbntcmb.rnd.ifsdevworld.com",
+                    "ew" : "http://ew/Environment/Detail?envid=20339",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "BNT LKP",
+                    "url": "https://ifs22r2bndbntlkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ew/Environment/Detail?envid=20335",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "MOB TEST CMB",
+                    "url": "https://ifs23r2bndbntlkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bndbntlkp",
+                    "enable" : false
+                },
+                {
+                    "envtitle": "MOB DEV CMB",
+                    "url": "https://ifs23r2bndbntlkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bndbntlkp",
+                    "enable" : false
+                },
+                {
+                    "envtitle": "MOB DEV LKP",
+                    "url": "https://ifs23r2bndbntlkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bndbntlkp",
+                    "enable" : false
+                },
+                {
+                    "envtitle": "SANITY",
+                    "url": "",
+                    "ew" : "http://ea/d/sanity-22r2/22r2?orgId=1&refresh=30s&from=now-12h&to=now",
+                    "enable" : true
+                }
+                
+            ]
+        },
+        {
+            "release": "22R1",
+            "msg" : "",
+            "section": [
+                {
+                    "envtitle": "DEV CMB",
+                    "url": "https://ifscloud22r1dev-cmb.rnd.ifsdevworld.com",
+                    "ew" : "http://ew/Environment/Detail?envid=19458",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "DEP CMB",
+                    "url": "https://ifscloud22r1dep-cmb.rnd.ifsdevworld.com",
+                    "ew" : "http://ew/Environment/Detail?envid=19441",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "DEV LKP",
+                    "url": "https://ifscloud22r1dev-lkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ew/Environment/Detail?envid=19456",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "DEP LKP",
+                    "url": "https://ifscloud22r1dep-lkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ew/Environment/Detail?envid=19457",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "BNT CMB",
+                    "url": "https://ifscloud22r1bnt-cmb.rnd.ifsdevworld.com",
+                    "ew" : "http://ew/Environment/Detail?envid=19453",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "BNT LKP",
+                    "url": "https://ifscloud22r1bnt-lkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ew/Environment/Detail?envid=19454",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "MOB TEST CMB",
+                    "url": "https://ifs23r2bndbntlkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bndbntlkp",
+                    "enable" : false
+                },
+                {
+                    "envtitle": "MOB DEV CMB",
+                    "url": "https://ifs23r2bndbntlkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bndbntlkp",
+                    "enable" : false
+                },
+                {
+                    "envtitle": "MOB DEV LKP",
+                    "url": "https://ifs23r2bndbntlkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bndbntlkp",
+                    "enable" : false
+                },
+                {
+                    "envtitle": "SANITY",
+                    "url": "",
+                    "ew" : "http://ew/Environment/Detail?envid=19440",
+                    "enable" : true
+                }
+                
+            ]
+        },
+        {
+            "release": "21R2",
+            "msg" : "",
+            "section": [
+                {
+                    "envtitle": "DEV CMB",
+                    "url": "https://ifscloudr2dev-cmb.rnd.ifsdevworld.com",
+                    "ew" : "http://ew/Environment/Detail?envid=18747",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "DEP CMB",
+                    "url": "https://ifscloudr2dep-cmb.rnd.ifsdevworld.com",
+                    "ew" : "http://ew/Environment/Detail?envid=18748",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "DEV LKP",
+                    "url": "https://ifscloudr2dev-lkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ew/Environment/Detail?envid=18749",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "DEP LKP",
+                    "url": "https://ifscloudr2dep-lkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ew/Environment/Detail?envid=18751",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "BNT CMB",
+                    "url": "https://ifs23r2bndbntcmb.rnd.ifsdevworld.com",
+                    "ew" : "http://ew/Environment/Detail?envid=18732",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "BNT LKP",
+                    "url": "https://ifs23r2bndbntlkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ew/Environment/Detail?envid=18733",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "MOB TEST CMB",
+                    "url": "https://ifs23r2bndbntlkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bndbntlkp",
+                    "enable" : false
+                },
+                {
+                    "envtitle": "MOB DEV CMB",
+                    "url": "https://ifs23r2bndbntlkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bndbntlkp",
+                    "enable" : false
+                },
+                {
+                    "envtitle": "MOB DEV LKP",
+                    "url": "https://ifs23r2bndbntlkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bndbntlkp",
+                    "enable" : false
+                },
+                {
+                    "envtitle": "SANITY",
+                    "url": "",
+                    "ew" : "",
+                    "enable" : false
+                }
+                
+            ]
+        },
+        {
+            "release": "21R1",
+            "msg" : "",
+            "section": [
+                {
+                    "envtitle": "DEV CMB",
+                    "url": "https://greenhousedev-cmb.rnd.ifsdevworld.com/",
+                    "ew" : "http://ew/Environment/Detail?envid=18787",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "DEP CMB",
+                    "url": "",
+                    "ew" : "",
+                    "enable" : false
+                },
+                {
+                    "envtitle": "DEV LKP",
+                    "url": "https://greenhousedev-lkp.rnd.ifsdevworld.com/",
+                    "ew" : "http://ew/Environment/Detail?envid=18792",
+                    "enable" : true
+                    
+                },
+                {
+                    "envtitle": "DEP LKP",
+                    "url": "",
+                    "ew" : "",
+                    "enable" : false
+                },
+                {
+                    "envtitle": "BNT CMB",
+                    "url": "https://greenhousebnt-cmb.rnd.ifsdevworld.com/",
+                    "ew" : "http://ew/Environment/Detail?envid=18788",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "BNT LKP",
+                    "url": "https://greenhousebnt-lkp.rnd.ifsdevworld.com/",
+                    "ew" : "http://ew/Environment/Detail?envid=18790",
+                    "enable" : true
+                },
+                {
+                    "envtitle": "MOB TEST CMB",
+                    "url": "https://ifs23r2bndbntlkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bndbntlkp",
+                    "enable" : false
+                },
+                {
+                    "envtitle": "MOB DEV CMB",
+                    "url": "https://ifs23r2bndbntlkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bndbntlkp",
+                    "enable" : false
+                },
+                {
+                    "envtitle": "MOB DEV LKP",
+                    "url": "https://ifs23r2bndbntlkp.rnd.ifsdevworld.com",
+                    "ew" : "http://ea/d/ifs23r2bndbntlkp",
+                    "enable" : false
+                },
+                {
+                    "envtitle": "SANITY",
+                    "url": "",
+                    "ew" : "",
+                    "enable" : false
+                }
+                
+            ]
+        }
+    ]
+}

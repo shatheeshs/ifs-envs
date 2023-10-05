@@ -1,0 +1,87 @@
+{
+    "parent": [
+        {
+            "release": "MASTERBUILDSERVERS",
+            "section": [
+                {
+                    "key" : "MASTER1",
+                    "infotitle": "Windows Build Server",
+                    "subtitle": "",
+                    "url": "http://lkppde234:8181/",
+                    "enable" : true
+                },
+                {
+                    "key" : "MASTER2",
+                    "infotitle": "Mac Build Server",
+                    "subtitle": "",
+                    "url": "http://lkplcrd14:8080/",
+                    "enable" : true
+                }
+            ]
+        },
+        {
+            "release": "BACKUPBUILDSERVERS",
+            "section": [
+                {
+                    "key" : "BACKUP1",
+                    "infotitle": "Windows Build Server",
+                    "subtitle": "",
+                    "url": "http://lkppde1884:8181/",
+                    "enable" : true
+                },
+                {
+                    "key" : "BACKUP2",
+                    "infotitle": "Mac Build Server",
+                    "subtitle": "",
+                    "url": "http://cmblcrd14:8181/",
+                    "enable" : true
+                }
+            ]
+        },
+        {
+            "release": "MASTERTOUCHAPPSERVERS",
+            "section": [
+                {
+                    "key" : "MASTER1",
+                    "infotitle": "App9",
+                    "subtitle": "",
+                    "url": "https://tas.ifsworld.com/",
+                    "enable" : true
+                },
+                {
+                    "key" : "MASTER2",
+                    "infotitle": "App10",
+                    "subtitle": "",
+                    "url": "https://tas-app10.ifsworld.com/",
+                    "enable" : true
+                },
+                {
+                    "key" : "MASTER3",
+                    "infotitle": "Next-Gen",
+                    "subtitle": "",
+                    "url": "https://uxx-rtm-test.ifsworld.com",
+                    "enable" : true
+                }
+            ]
+        },
+        {
+            "release": "BACKUPTOUCHAPPSERVERS",
+            "section": [
+                {
+                    "key" : "BACKUP1",
+                    "infotitle": "App9",
+                    "subtitle": "",
+                    "url": "https://tas-dev-rnd.ifsworld.com/",
+                    "enable" : true
+                },
+                {
+                    "key" : "BACKUP2",
+                    "infotitle": "app10",
+                    "subtitle": "",
+                    "url": "https://lkppde1882.corpnet.ifsworld.com/",
+                    "enable" : true
+                }
+            ]
+        }
+    ]
+}
