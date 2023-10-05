@@ -24,6 +24,18 @@ export const LatestMsgContent = styled("h2")`
   }
 `;
 
+export const BaseRelease = styled("h6")`
+  position: relative;
+  padding: 0.0rem 0 0.0rem;
+  text-align: center;
+  display: flex;
+  justify-content: left;
+
+  @media screen and (max-width: 1024px) {
+    padding: 5.5rem 0 3rem;
+  }
+`;
+
 export const Content = styled("p")`
   padding: 0.75rem 0 0.75rem;
 `;

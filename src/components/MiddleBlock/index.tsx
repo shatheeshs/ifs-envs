@@ -1,7 +1,7 @@
 import { Row } from "antd";
 import { withTranslation } from "react-i18next";
 import { Slide } from "react-awesome-reveal";
-import { MiddleBlockSection, ContentWrapper ,LatestMsgContent} from "./styles";
+import { MiddleBlockSection, ContentWrapper ,BaseRelease} from "./styles";
 import EnvTab from "../EnvTab";
 
 interface MiddleBlockProps {
@@ -19,7 +19,8 @@ const MiddleBlock = ({ title, content, button, t }: MiddleBlockProps) => {
       <Slide direction="up">
         <Row justify="center" align="middle">
           <ContentWrapper>
-          <LatestMsgContent>Why hurry, 24R1 coming soon.</LatestMsgContent>
+          {/* <LatestMsgContent>Why hurry, 24R1 coming soon.</LatestMsgContent> */}
+          <BaseRelease>24R1</BaseRelease>
           <EnvTab release = '24R1' tabtype ="RELEASE"/>
           </ContentWrapper>
         </Row>
