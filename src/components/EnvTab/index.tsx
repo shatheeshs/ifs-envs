@@ -294,7 +294,7 @@ const EnvTab = ({
                   <tr>
                     <td>
                       <UrlContent href={tab.landingPage} target="_blank" rel="1" hidden={tab.landingPage === ""}>
-                        {tab.landingPage}
+                      Go to Landing Page : {tab.landingPage} &nbsp;&nbsp;&nbsp;
                       </UrlContent>
                     </td>
                     <td>
